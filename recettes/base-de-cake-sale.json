@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Base de Cake Salé",
+  "description": "C'est une base similaire pour tous les cakes salés. Ensuite, à votre imagination pour les garnitures de votre choix + de l’emmental râpé pour parsemer sur le dessus.",
+  "image": "",
+  "url": "",
+  "recipeYield": "8 portions",
+  "recipeCategory": "Plat principal",
+  "keywords": "cake salé, recette de cake, base de cake",
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H",
+  "performTime": "PT45M",
+  "recipeIngredient": [
+    "200 g de farine",
+    "1 sachet de levure",
+    "6 oeufs",
+    "15 cl de lait",
+    "10 cl d'huile",
+    "poivre",
+    "sel"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Commencer par mélanger la farine et la levure."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajouter les oeufs, le lait et l'huile."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajouter le sel et le poivre."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Votre base est prête !"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Préchauffer le four à 180°C (thermostat 6). Ensuite, ajouter les autres ingrédients, en saupoudrant d’emmental râpé."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mélanger et verser la préparation dans un moule à cake."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Enfourner 45 min à 180°C."
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 calories",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "150 mg",
+    "fatContent": "10 g",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "300 mg",
+    "sugarContent": "1 g",
+    "transFatContent": "0 g",
+    "unsaturatedFatContent": "8 g"
+  }
+}

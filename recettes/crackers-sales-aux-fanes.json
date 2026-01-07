@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Crackers salés aux fanes",
+  "description": "Des crackers salés croustillants et savoureux, parfaits pour accompagner des dips ou à déguster seuls.",
+  "image": "",
+  "url": "",
+  "recipeYield": "4 personnes",
+  "recipeCategory": "Apéritif",
+  "keywords": "crackers, apéritif, fanes, anti-gaspillage",
+  "prepTime": "PT30M",
+  "cookTime": "PT15M",
+  "totalTime": "PT45M",
+  "performTime": "PT15M",
+  "recipeIngredient": [
+    "150 g de farine",
+    "60 g de lait",
+    "30 g de beurre doux fondu",
+    "2 g de sel",
+    "2 g de levure",
+    "1 g de bicarbonate de soude",
+    "35 g de fanes (radis, oignon vert, ...)",
+    "10 g de graines de sésame"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dans un bol, mélanger la farine, le sel, la levure et le bicarbonate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajouter progressivement le lait et le beurre fondu jusqu’à obtenir une pâte. Pétrir la pâte jusqu’à ce qu’elle devienne lisse et élastique."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ajouter les fanes et les graines dans la pâte en veillant à ce qu’ils soient uniformément répartis."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Couvrir la pâte et la laisser reposer environ 30 minutes à température ambiante."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Préchauffer le four à 180°."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Etaler la pâte sur une surface légèrement farinée, assez finement."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Couper en carrés, losanges, bâtonnets. Piquer chaque cracker avec une fourchette pour éviter qu’ils ne gonflent trop à la cuisson."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Faire cuire sur une feuille de papier sulfurisé pendant 12 à 15 minutes, jusqu’à ce qu’ils soient dorés et croustillants."
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150 calories",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "5 mg",
+    "fatContent": "7 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "200 mg",
+    "sugarContent": "1 g",
+    "transFatContent": "0 g",
+    "unsaturatedFatContent": "4 g"
+  }
+}
