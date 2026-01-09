@@ -181,7 +181,7 @@ def parse_recipe_to_schema_org(recipe_text: str) -> dict:
     return data
 
 if __name__ == "__main__":
-    with open("recette.txt", "r", encoding="utf-8") as f:x
+    with open("recette.txt", "r", encoding="utf-8") as f:
         txt = f.read()
 
     out = parse_recipe_to_schema_org(txt)
